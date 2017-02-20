@@ -55,13 +55,13 @@ In this lesson you will be explained main concepts of DevOps, learn about its be
  
 ### Benefits of CI
 
-\+ discipline
-\+ 
+\+ discipline<br/>
+\+ <br/>
 
-± transparency
-± 
+± transparency<br/>
+±
 
-\- setup
+\- setup<br/>
 \- 
 
 ### Cloud
