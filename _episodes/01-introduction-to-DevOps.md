@@ -70,9 +70,9 @@ Resource for storage and computing
 
 ## Virtualization vs. containerization
 
-![]({{ site.baseurl }}/img/vm_vs_container.jpg)
+![]({{ site.baseurl }}/img/vm_vs_container.png)
 
-### # Discussion
+### Discussion #2
 
 - What is Your software development process?
 
