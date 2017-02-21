@@ -11,6 +11,7 @@ objectives:
   - "You should get an idea about how DevOps could benefit you."
 keypoints:
   - "DevOps is about automating (almost) everything"
+  - "GitHub, GitLab, Travis, Jenkins, Vagrant, Docker, LXC, Ansible, Chef, Puppet"
 
 ---
 
